@@ -1,4 +1,4 @@
-# metody-numeryczne
+# poszukiwanie-pierwiastkow-funkcji-GUI
 
 Data projektu: 02-2021
 
